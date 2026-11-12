@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Ejercicio_4_diego {
+public class Keprekar {
     public static void main(String[] args) {
         int kaprekar = 6174;
         int num, a1, a2, a3, a4, iteraciones = 0;

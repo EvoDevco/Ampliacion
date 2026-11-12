@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Ejercicio_1 {
+public class Lucky_number {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int suma=0;
